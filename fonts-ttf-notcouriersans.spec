@@ -47,3 +47,10 @@ ttmkfdir %{buildroot}%{_xfontdir}/TTF/notcouriersans -o %{buildroot}%{_xfontdir}
 %verify(not mtime) %{_datadir}/fonts/TTF/notcouriersans/fonts.dir
 %{_xfontdir}/TTF/notcouriersans/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/ttf-notcouriersans:pri=50
+
+
+%changelog
+* Wed Dec 14 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 1.1-1
++ Revision: 741073
+- imported package fonts-ttf-notcouriersans
+
