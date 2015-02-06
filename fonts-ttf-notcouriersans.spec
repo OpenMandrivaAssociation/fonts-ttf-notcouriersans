@@ -3,7 +3,7 @@
 Summary:	Re-interpretation of Nimbus Mono
 Name:		fonts-ttf-notcouriersans
 Version:	1.1
-Release:	1
+Release:	2
 License:	GPLv2 with font exception
 Group:		System/Fonts/True type
 URL:		http://ospublish.constantvzw.org
