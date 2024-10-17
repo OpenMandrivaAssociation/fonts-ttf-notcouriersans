@@ -6,7 +6,7 @@ Version:	1.1
 Release:	2
 License:	GPLv2 with font exception
 Group:		System/Fonts/True type
-URL:		http://ospublish.constantvzw.org
+URL:		https://ospublish.constantvzw.org
 Source0:	%{pkgname}.zip
 BuildArch:	noarch
 BuildRequires:	freetype-tools
